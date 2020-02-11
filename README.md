@@ -1,6 +1,6 @@
 # ale-linter-eastwood
 
-ALE integration for the Purdue CS240 C code linter.
+[ALE](https://github.com/dense-analysis/ale) integration for the Purdue CS240 C code linter.
 
 If you don't know what ALE is, this probably isn't for you.
 
